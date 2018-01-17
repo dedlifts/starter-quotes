@@ -10,4 +10,4 @@ Styling
 Additions:
 
 01/16/2018 - Vinz - Created changelog.md
-01/16/2018 - Nixon - Added image of new character, White Goodman
+01/17/2018 - Nixon - Added image of new character, White Goodman
