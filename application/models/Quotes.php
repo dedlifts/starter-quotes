@@ -24,8 +24,8 @@ class Quotes extends CI_Model
 		'5'	 => array('who'	 => 'Joan Rivers', 'role'	 => 'Dot Matrix',
 			'what'	 => 'Goodbye, virgin alarm.'),
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
-			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!')
-		'7'  => array('who'	 => 'Ben Stiller', 'role'	 => 'White Goodman',
+			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'),
+		'7'  => array('who'	 => 'White Goodman', 'role'	 => 'White Goodman',
 			'what'	 => 'Here at Globo Gym, Were better than you and we know it!')
 	);
 
