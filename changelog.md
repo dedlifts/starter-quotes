@@ -11,3 +11,4 @@ Additions:
 
 01/16/2018 - Vinz - Created changelog.md
 01/17/2018 - Nixon - Added image of new character, White Goodman
+01/18/2018 - Nixon - Created new branch mod02, new View "actor", edit Controller "Welcome.php"
